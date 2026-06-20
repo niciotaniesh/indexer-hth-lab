@@ -1,2 +1,14 @@
 # indexer-hth-lab
-HTML page archive and documentation
+
+HTML 发布文件仓库
+
+页面发布任务会把结果保存到此仓库，方便统一管理。
+
+## 文件记录
+
+- 根目录中的 HTML 文件为发布结果
+- README 用于说明当前仓库用途
+
+## 注意事项
+
+README 仅说明仓库用途，不替代具体页面内容。
